@@ -1,0 +1,11 @@
+﻿<Window x:Class="WindowsAzure.ServiceBus.DeviceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DeviceWindow" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <ListView ItemsSource="{Binding Messages}" />
+            <Button Click="Button_Click" Height="30">Close</Button>
+        </StackPanel>
+    </Grid>
+</Window>

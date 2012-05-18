@@ -1,0 +1,19 @@
+﻿<Window x:Class="WindowsAzure.ServiceBus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        DataContext="">
+    <Grid>
+        <StackPanel VerticalAlignment="Bottom">
+        <ListView Name="Topics" ItemsSource="{Binding Topics}"></ListView>
+        <ListView Name="Subscriptions" ItemsSource="{Binding Subscriptions}"></ListView>
+        <Button Click="NewDevice" Height='30'>Spin up new Device, listen to Topic</Button>
+        <Button Click="CreateTopicAndSubScription" Height='30'>Create a Topic then add Subscription</Button>
+        <Button Click="SendToTopic" Height='30'>Send message to topic</Button>
+        <Button Click="ReceiveAndShowMessage" Height='30'>Show a message in Queue</Button>
+        <Button Click="QueueMessages" Height='30'>Create Queue and populate Messages</Button>
+        <Button Click="ReceiveAndDeleteMessage" Height='30'>Get and delete a message from queue</Button>
+        <Button Click="DeleteQueue" Height='30'>Delete Queue</Button>
+        </StackPanel>
+    </Grid>
+</Window>

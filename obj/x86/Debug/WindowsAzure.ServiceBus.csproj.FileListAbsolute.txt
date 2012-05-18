@@ -1,0 +1,28 @@
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.csprojResolveAssemblyReference.cache
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\MainWindow.baml
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\MainWindow.g.cs
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\App.g.cs
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus_MarkupCompile.cache
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.g.resources
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.Properties.Resources.resources
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.csproj.GenerateResource.Cache
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\WindowsAzure.ServiceBus.exe.config
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\WindowsAzure.ServiceBus.exe
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\WindowsAzure.ServiceBus.pdb
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\Microsoft.ServiceBus.dll
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\Microsoft.ServiceBus.xml
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.exe
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.pdb
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\DeviceWindow.baml
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\obj\x86\Debug\DeviceWindow.g.cs
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\System.Windows.Interactivity.dll
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.pdb
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.WPF4.pdb
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\SVN_12\src\Land.db Client\WindowsAzure.ServiceBus\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\eddie\Desktop\WindowsAzure.ServiceBus\bin\Debug\WindowsAzure.ServiceBus.exe.config
+C:\Users\eddie\Desktop\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.exe
+C:\Users\eddie\Desktop\WindowsAzure.ServiceBus\obj\x86\Debug\WindowsAzure.ServiceBus.pdb

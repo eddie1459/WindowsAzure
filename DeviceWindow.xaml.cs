@@ -16,7 +16,7 @@ namespace WindowsAzure.ServiceBus
     public partial class DeviceWindow : Window
     {
         static string baseAddress;
-        static string serviceNamespace = "agcservicebus";
+        static string serviceNamespace = "<YourNamespace>";
         const string sbHostName = "servicebus.windows.net";
         static string _token;
         private string _topicName;
